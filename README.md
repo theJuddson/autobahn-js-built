@@ -4,14 +4,10 @@ This repository contains the built and released versions of [AutobahnJS](https:/
 
 ## Using with Bower
 
-Install with [bower](http://bower.io/):
+Install with [npm](https://www.npmjs.com/):
 
-	bower install autobahn
+	npm install autobahn-js-built
 
 Add a `<script>` tag to your `index.html`:
 
-	<script src="/bower_components/autobahn/autobahn.min.js"></script>
-
-To list available versions of AutobahnJS:
-
-	bower info autobahn
+	<script src="/node_modules/autobahn-js-built/autobahn.min.js"></script>

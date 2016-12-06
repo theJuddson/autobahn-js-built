@@ -1,5 +1,5 @@
 {
-    "name": "autobahn",
+    "name": "autobahn-js-built",
     "version": "0.11.0",
     "main": "autobahn.js"
 }
