@@ -1,8 +1,8 @@
 # AutobahnJS "Built"
 
-This repository contains the built and released versions of [AutobahnJS](https://github.com/tavendo/AutobahnJS) ready for use in your project.
+This repository contains the built and released versions of [AutobahnJS](https://github.com/tavendo/AutobahnJS) ready for use in your project. This is a clone of CrossBar's Bower autobahn-js-built project that I've pushed to the npm repo.
 
-## Using with Bower
+## Using with npm
 
 Install with [npm](https://www.npmjs.com/):
 
